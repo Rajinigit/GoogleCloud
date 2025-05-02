@@ -1,7 +1,7 @@
 # GoogleCloud
 All helpful resources for learning and having fun with Google Cloud
 ## MindMapping Google Cloud
-
+1. [Google Cloud Compute Options](https://github.com/Rajinigit/GoogleCloud/blob/main/Google%20Cloud%20Compute%20Options.png)
 
 ## Google Cloud Certification-related Blogs 
 1. How to become [Google Cloud Certified Digital Leader](https://rameshrajini.medium.com/how-to-become-google-certified-cloud-digital-leader-acc726c03142)?
